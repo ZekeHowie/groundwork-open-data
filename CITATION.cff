@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+type: dataset
+title: "Florida vacant-land prices by county and city (2026-11-01)"
+version: "2026-11-01"
+date-released: "2026-11-09"
+doi: 10.5281/zenodo.24092813
+license: CC-BY-4.0
+url: "https://groundworkmap.com/data/florida-land-prices"
+repository-code: "https://github.com/ZekeHowie/groundwork-open-data"
+authors:
+  - family-names: Howie
+    given-names: Zeke
+    affiliation: Groundwork
+keywords:
+  - land prices
+  - vacant land
+  - price per acre
+  - Florida
